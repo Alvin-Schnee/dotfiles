@@ -240,7 +240,7 @@
     label-volume = %{T4}Volume - %percentage%%%{T-}
     label-volume-foreground = ${root.foreground}
 
-    label-muted = %{T4}Volume - X   %{T-}
+    label-muted = %{T4}Volume - X%{T-}
     label-muted-foreground = #666
 
 [settings]
