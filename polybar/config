@@ -132,16 +132,16 @@
 [module/bspwm]
     type = internal/bspwm
 
-    ws-icon-0 = 0;◆
-    ws-icon-1 = 1;
-    ws-icon-2 = 2;
-    ws-icon-3 = 3;
-    ws-icon-4 = 4;
-    ws-icon-5 = 5;%{A1:code:}%{A}
-    ws-icon-6 = 6;
-    ws-icon-7 = 7;
-    ws-icon-8 = 8;%{A1:spotify:}%{A}
-    ws-icon-9 = 9;◆
+    ws-icon-0 = I;◆
+    ws-icon-1 = II;
+    ws-icon-2 = III;
+    ws-icon-3 = IV;
+    ws-icon-4 = V;
+    ws-icon-5 = VI;%{A1:code:}%{A}
+    ws-icon-6 = VII;
+    ws-icon-7 = VIII;
+    ws-icon-8 = IX;%{A1:spotify:}%{A}
+    ws-icon-9 = X;◆
 
     enable-click = false 
         ; Create click handler used to focus workspace - Default: true
