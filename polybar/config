@@ -154,10 +154,10 @@
     label-focused = %icon%
     label-occupied = %icon%
 
-    label-empty-padding = 1
-    label-urgent-padding = 1
-    label-focused-padding = 1
-    label-occupied-padding = 1
+    label-empty-padding = 0
+    label-urgent-padding = 0
+    label-focused-padding = 0
+    label-occupied-padding = 0
 
     scroll-up = bspwm-desknext
     scroll-down = bspwm-deskprev
